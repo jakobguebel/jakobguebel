@@ -5,7 +5,7 @@ https://batchlegal.herokuapp.com/ <br />
 https://github.com/fvanlitsenburg/BatchLegal <br />
 Creator: Felix van Litsenburg <br />
 Co-Creators: Axel Pichler, Christopher Peter, Jakob Gübel 
-
+<br />
 
 ## Projects in progress:
 ### PortfolioAnalysis:
