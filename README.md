@@ -6,9 +6,10 @@ https://github.com/fvanlitsenburg/BatchLegal
 Creator: Felix van Litsenburg
 Co-Creators: Axel Pichler, Christopher Peter, Jakob Gübel
 
+
 ## Projects in progress:
-### PortfolioAnalysis
+### PortfolioAnalysis:
 A website to keep track of the current state of a stock- and crypto-portfolio
 
-### SpendingsAnalysis
+### SpendingsAnalysis:
 A way to visualize and investigate how much you spent for what
