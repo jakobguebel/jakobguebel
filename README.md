@@ -4,7 +4,7 @@ A website to provide insights into EU legal regulations
 https://batchlegal.herokuapp.com/
 https://github.com/fvanlitsenburg/BatchLegal
 Creator: Felix van Litsenburg
-Co-Creators: Axel Pichler, Christopher Peter, Jakob Gübel
+Co-Creators: Axel Pichler, Christopher Peter, Jakob Gübel 
 
 
 ## Projects in progress:
