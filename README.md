@@ -1,7 +1,7 @@
 ## About Me
 I am a Data Scientist with a background in Biology and an ethusiasm for programming that is almost weirding me out. I love data, too, and I track many things in my life. 
 
-Current projects include
+**Current projects include**
 - Life Analysis: an overview and visualization over my daily and longterm metrics, from spendings to daily state of mind
 - Portfolio Manager: a harmonization and visual overview of the performance of assets of all kind, such as etfs, stocks and crypto
 - Travel Risk Map: a visual overview over travel risk in countries and cities all around the world, derived from different data sets
