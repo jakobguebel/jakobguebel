@@ -1,5 +1,5 @@
 ## About Me
-I am a Data Scientist with a background in Biology and an ethusiasm for programming that is almost weirding me out. I love data, too, and I track many things in my life. 
+I am a Data Scientist with a background in Biology and an ethusiasm for coding that is almost weirding me out. I love data, too, and I track many things in my life. 
 
 **Current projects include**
 - Life Analysis: an overview and visualization over my daily and longterm metrics, from spendings to daily state of mind
